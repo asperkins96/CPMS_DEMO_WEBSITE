@@ -1,0 +1,65 @@
+.container {
+    background-color: #58994e;
+    font-family: 'Quicksand', sans-serif;
+    color: black;
+    width: 100%;
+}
+
+.navbar-default{
+    background-color: #44753c;
+    
+    
+}
+
+.navbar-nav{
+    background-color: #44753c;
+    
+}
+
+.navbar-header{
+    background-color: darkgreen
+}
+
+#active{
+    background-color: #58994e;
+    display: cover;
+}
+.nav.navbar-nav li a {
+    color: white;
+    float: right;
+    
+}
+.well {
+    background-color: #dbdbdb;
+    color: black;
+    background-position: center;
+    
+    
+}
+
+#bodytext{
+    color: #777777;
+}
+
+#headerText{
+    color: #777777;
+}
+
+#ASCO{
+    align-content: center
+}
+
+.btn{
+    float: bottom;
+    position: relative;
+}
+
+#logo {
+    display: block;
+    float: center;
+    
+}
+
+#ABC{
+    
+}
